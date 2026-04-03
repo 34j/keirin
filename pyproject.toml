@@ -3,12 +3,13 @@ name = "keirin"
 version = "0.0.0"
 description = "Python package for getting keirin data"
 authors = ["34j <34j.95a2p@simplelogin.com>"]
-license = "GNU General Public License v3"
+license = "AGPL-3.0-or-later"
 readme = "README.md"
 repository = "https://github.com/34j/keirin"
 documentation = "https://keirin.readthedocs.io"
 classifiers = [
     "Development Status :: 2 - Pre-Alpha",
+    "License :: OSI Approved :: GNU Affero General Public License v3 or later (AGPLv3+)",
     "Intended Audience :: Developers",
     "Natural Language :: English",
     "Operating System :: OS Independent",
